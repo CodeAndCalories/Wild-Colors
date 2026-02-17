@@ -3,7 +3,7 @@
 
 A retro 90s-inspired browser coloring book with procedurally generated nature scenes — inspired by classic CD-ROM coloring games like Crayola Art Studio.
 
-🎨 **[Play it live →]((https://codeandcalories.github.io/Wild-Colors/))**
+🎨 **[Play it live →](https://codeandcalories.github.io/Wild-Colors/)**
 
 ---
 
